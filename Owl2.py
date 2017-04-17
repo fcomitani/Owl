@@ -6,7 +6,7 @@
 #####  of the Vibrational Spectrum extracted with Gaussian09.                    #####
 ######################################################################################
 
-#F.Comitani 2016
+#F.Comitani 2015
 
 #import shlex, subprocess, sys, os, math, random
 from Owl_core import *

@@ -1,4 +1,4 @@
-##Olfactory White Algorithm##
+# Olfactory White Algorithm
 
 Old set of scripts I wrote during my PhD to build an olfactory white recipe based on the vibrational spectra
 of a number of volatile molecules. 

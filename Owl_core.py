@@ -2,7 +2,7 @@
 #####    Set of Functions used in Owl 2.0                #####
 ##############################################################
 
-#F.Comitani 2016
+#F.Comitani 2015
 
 import shlex, subprocess, sys, os, math, random
 

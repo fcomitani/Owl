@@ -5,7 +5,7 @@
 ##### and evaluate the typical values of the Error                               #####
 ######################################################################################
 
-#F.Comitani 2016
+#F.Comitani 2015
 
 import numpy
 from Owl_core import *
