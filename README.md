@@ -4,11 +4,11 @@ Old set of scripts I wrote during my PhD to build an olfactory white recipe base
 of a number of volatile molecules. 
 
 Starting from a training dataset of molecular spectra, and assuming their sum is an olfactory white,  
-the algorithm iteratively adds or subtracts molecules (with a metropolis acceptance/regection algorithm)
+the algorithm iteratively adds or subtracts molecules (with a metropolis acceptance/rejection algorithm)
 and tries to minimise the distance between the newly built total spectrum and the spectrum 
 obtained from the training set according to the chosen metric. 
 
-A set of auxiliary scripts to test the validity of the results are also here.
+A set of auxiliary scripts to test the validity of the results are also found here.
 
 List of files:
 
